@@ -333,14 +333,14 @@
 } 
  
 .footer__social-icon { 
-  width: 16px; 
-  height: 16px; 
+  width: 16px;
+  height: 16px;
   padding-right: 10px; 
 } 
  
 .footer__author {  
   margin: 18px 0 18px 0;
-  line-height: 25px; 
-  font-size: 18px; 
+  line-height: 25px;
+  font-size: 18px;
   font-weight: normal; 
 }
