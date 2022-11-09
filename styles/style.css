@@ -19,8 +19,13 @@
   justify-content: space-between;
   align-items: flex-start;
   width: 1100px;
-  margin: 0 auto 90px auto;
-  padding: 0;
+  padding: 0 0 100px 0;
+  margin: 0 auto 0 auto;
+}
+
+.link:hover {
+  opacity: 0.3;
+  transition: opacity 1s linear;
 }
 
 .rotation {
@@ -73,7 +78,7 @@
 .header__link { 
   color: #2f80ed;
   text-decoration: none;
-}   
+}
  
 .header__square-pic { 
   position: absolute;
@@ -179,6 +184,87 @@
 
 .oakley {
   background-color: #f2f2f2;
+}
+
+.khan {
+  background-color: #f2f2f2;
+}
+
+.khan__container {
+  width: 80%;
+  margin: 0 auto 0 auto;
+  padding-top: 100px;
+}
+
+.khan__author {
+  margin: 0;
+  line-height: 42px;
+  font-size: 30px;
+  font-weight: normal;
+}
+
+.khan__title {
+  margin: 0;
+  line-height: 1.15;
+  font-size: 60px;
+  font-weight: 600;
+}
+
+.khan__quote {
+  margin: 0;
+  padding: 50px 0 0 0;
+  width: 790px;
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
+}
+
+.khan__quote-author {
+  margin: 0;
+  padding: 36px 0 0 0;
+  line-height: 1.15;
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.khan__quote-author-subline {
+  margin: 0;
+  padding: 10px 0 0 0;
+  line-height: 1.15;
+  font-size: 24px;
+  font-weight: normal;
+}
+
+.khan__book-container {
+  display: flex;
+  flex-direction: row;
+  margin: 0;
+  padding: 68px 0 0 0;
+}
+
+.khan__book-pic {
+  padding: 0 48px 0 0;
+  width: 620px;
+  height: 608px;
+  object-fit: cover;
+}
+
+.khan__buy-link {
+  line-height: 42px;
+  font-size: 30px;
+  font-weight: normal;
+  color: #2f80ed;
+}
+
+.resources__logo-zone {
+  margin: 0 auto 0 auto;
+  padding: 80px 0 217px 0;
+  width: 1100px;
+}
+
+.resources__logo {
+  width: 270px;
+  height: 38px;
 }
 
 .description { 
@@ -345,7 +431,7 @@
 .section-title_theme_dark { 
   position: relative;
   z-index: +2;
-  margin: 90px auto 0 auto;
+  margin: 0 auto 0 auto;
   text-align: center;
   line-height: 1.15;
   font-size: 60px;
