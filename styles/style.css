@@ -8,7 +8,7 @@
 } 
 
 .rotation {
-  -webkit-animation: 20s infinite linear rotation;
+  animation: 20s infinite linear rotation;
 }
 
 .page { 
