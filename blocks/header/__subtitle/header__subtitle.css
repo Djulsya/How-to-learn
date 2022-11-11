@@ -3,9 +3,10 @@
   left: 64px;
   bottom: 30px;
   margin: 0;
-  width: 388px;
+  max-width: 388px;
+  width: 100%;
   line-height: 25px;
   font-size: 18px;
   font-weight: normal;
-  z-index: +3;
+  z-index: 3;
 }
