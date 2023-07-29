@@ -10,4 +10,4 @@
   Используемые техники:
   Адаптивное видео, БЭМ, флексбокс.
 
-https://djulsya.github.io/how-to-learn/
+https://djulsya.github.io/How-to-learn/
